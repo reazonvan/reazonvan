@@ -42,7 +42,8 @@
 <details open>
   <summary><h2>💻 Что такое вайбкодинг?</h2></summary>
   <div align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzYXVveGNod3EwbjJpMGQ5MWY2cnNueG1seGQxcnhrYzdha3pzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="380px" />
+    <!-- Замена гифки на тематическую из Кремниевой долины -->
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtxNTYxM21vYjdkc3NpZG94dXRxdmZqNjl2N2R1NjZteXF5Z3d5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPzgJgWFJXdYMU/giphy.gif" width="450px" alt="Silicon Valley GIF" />
   </div>
   <p align="center">
     Вайбкодинг — это подход, где я описываю задачу ИИ в нескольких предложениях, а он генерирует код, 
@@ -53,6 +54,22 @@
     <img src="https://img.shields.io/badge/Cursor-00FF00?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge" />
     <img src="https://img.shields.io/badge/GitHub%20Copilot-4078c0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Badge" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" />
+  </div>
+</details>
+
+<!-- Добавляем новый раздел с технологиями и навыками -->
+<details open>
+  <summary><h2>🛠️ Технологии и инструменты</h2></summary>
+  <div align="center">
+    <!-- Красивые бейджи с технологиями -->
+    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
 </details>
 
@@ -81,16 +98,36 @@
 <!-- Статистика GitHub с улучшенным дизайном -->
 <details open>
   <summary><h2>📊 Моя статистика</h2></summary>
+  <!-- Добавляем новый виджет трофеев -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=reazonvan&theme=nord&column=6&row=1&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  </p>
+  
   <div align="center">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=reazonvan&count_private=true&show_icons=true&theme=tokyonight&border_color=4DFFCF&bg_color=0d1117&ring_color=4DFFCF&icon_color=4DFFCF&title_color=4DFFCF" alt="GitHub Stats" />
     <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=tokyonight&border=4DFFCF&background=0d1117&ring=4DFFCF&fire=4DFFCF&currStreakLabel=4DFFCF" alt="GitHub Streak" />
     <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=tokyonight&border_color=4DFFCF&bg_color=0d1117&title_color=4DFFCF" alt="Top Languages" />
   </div>
 
+  <!-- Добавляем новый виджет с активностью -->
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazonvan&bg_color=0d1117&color=4DFFCF&line=6A65FC&point=FF58B3&area=true&area_color=6A65FC&hide_border=true" alt="Contribution Graph" />
+  </p>
+
   <div align="center">
     <img src="https://komarev.com/ghpvc/?username=reazonvan&color=4DFFCF&style=for-the-badge" alt="Profile Views" />
   </div>
 </details>
+
+<!-- Добавляем блок с цитатой в киберпанк-стиле -->
+<div align="center">
+  <div style="background-color: #0d1117; border-left: 3px solid #4DFFCF; padding: 15px; margin: 20px 0; border-radius: 5px;">
+    <p style="color: #ffffff; font-style: italic; font-size: 18px;">
+      "Это не баг — это особенность кода, которая просто ищет своё предназначение."
+    </p>
+    <p style="color: #FF58B3; text-align: right;">— Ричард Хендрикс, Кремниевая долина</p>
+  </div>
+</div>
 
 <!-- Контакты с анимированными кнопками -->
 <h2>🌐 Связаться со мной</h2>
