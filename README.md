@@ -147,11 +147,7 @@
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
         </a>
       </div>
-      
-      <!-- Дополнительное сообщение -->
-      <p align="center" style="color:#4DFFCF; margin-top:15px; font-size:14px;">
-        Готов к сотрудничеству! Свяжитесь со мной для обсуждения интересных проектов с применением ИИ!
-      </p>
+      <p align="center" style="color:#4DFFCF; margin-top:15px; font-size:14px;">Готов к сотрудничеству! Свяжитесь со мной для обсуждения интересных проектов с применением ИИ!</p>
     </div>
   </div>
 </details>
