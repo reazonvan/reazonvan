@@ -174,9 +174,4 @@
 <!-- Улучшенный подвал с градиентом и дополнительной информацией -->
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=120&section=footer&text=Спасибо%20за%20посещение!&fontSize=24&fontColor=ffffff&fontAlignY=80" alt="Footer" />
-</a>
-
-<!-- Дополнительная информация внизу с неоновым эффектом -->
-<div align="center" style="margin-top:-50px; margin-bottom:20px; color:#4DFFCF; font-size:12px;">
-  <p>Сделано с ❤️ и ChatGPT • © 2023 Reazonvan • Вайбкодинг — это будущее</p>
-</div> 
+</a> 
