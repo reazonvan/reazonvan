@@ -109,6 +109,43 @@
   <!-- Анимированная линия -->
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400" />
   
+  <!-- Интерактивная карта технологий в виде нейронной сети -->
+  <details>
+    <summary style="cursor: pointer; font-weight: bold; color: #4DFFCF; font-size: 18px; padding: 10px; background: #0d1117; border: 1px solid #4DFFCF; border-radius: 5px; box-shadow: 0 0 10px #4DFFCF; margin: 20px 0;">
+      🧠 Интерактивная карта технологий
+    </summary>
+    <div style="padding: 20px; background: #0d1117; border: 1px solid #4DFFCF; border-radius: 0 0 5px 5px; margin-top: -5px;">
+      <!-- Карта технологий в виде нейронной сети -->
+      <div style="position: relative; width: 100%; height: 400px; margin: 0 auto;">
+        <!-- Центральный узел -->
+        <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100px; height: 100px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 3px solid #4DFFCF; display: flex; justify-content: center; align-items: center; z-index: 10; box-shadow: 0 0 20px #4DFFCF;">
+          <span style="color: #4DFFCF; font-weight: bold; font-size: 14px; text-align: center;">Вайбкодинг</span>
+        </div>
+        
+        <!-- Узлы первого уровня -->
+        <!-- Узел 1 -->
+        <div style="position: absolute; top: 30%; left: 30%; width: 80px; height: 80px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 3px solid #FF58B3; display: flex; justify-content: center; align-items: center; z-index: 5; box-shadow: 0 0 15px #FF58B3;">
+          <span style="color: #FF58B3; font-weight: bold; font-size: 12px; text-align: center;">Языки<br>Программирования</span>
+        </div>
+        
+        <!-- Узел 2 -->
+        <div style="position: absolute; top: 30%; left: 70%; width: 80px; height: 80px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 3px solid #6A65FC; display: flex; justify-content: center; align-items: center; z-index: 5; box-shadow: 0 0 15px #6A65FC;">
+          <span style="color: #6A65FC; font-weight: bold; font-size: 12px; text-align: center;">ИИ<br>Ассистенты</span>
+        </div>
+        
+        <!-- Узел 3 -->
+        <div style="position: absolute; top: 70%; left: 30%; width: 80px; height: 80px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 3px solid #4DFFCF; display: flex; justify-content: center; align-items: center; z-index: 5; box-shadow: 0 0 15px #4DFFCF;">
+          <span style="color: #4DFFCF; font-weight: bold; font-size: 12px; text-align: center;">Инструменты<br>Разработки</span>
+        </div>
+        
+        <!-- Узел 4 -->
+        <div style="position: absolute; top: 70%; left: 70%; width: 80px; height: 80px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 3px solid #FF58B3; display: flex; justify-content: center; align-items: center; z-index: 5; box-shadow: 0 0 15px #FF58B3;">
+          <span style="color: #FF58B3; font-weight: bold; font-size: 12px; text-align: center;">UI/UX<br>Дизайн</span>
+        </div>
+        
+        <!-- Узлы второго уровня -->
+        <!-- Для Языков программирования -->
+        <div style="position: absolute; top: 15%; left: 15%; width: 60px; height: 60px; background: radial-gradient(circle, #0d1117, #0d1117); border-radius: 50%; border: 2px solid #FF58B3; display: flex; justify-content: center; align-items: center; z-index: 2; box-shadow: 0 0 10px #FF58B3;">
   <div style="background:#111; border-radius:10px; padding:20px; margin:15px auto; max-width:800px;">
     <div style="margin:15px 0; display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
