@@ -42,8 +42,8 @@
 <details open>
   <summary><h2>💻 Что такое вайбкодинг?</h2></summary>
   <div align="center">
-    <!-- Замена гифки на тематическую из Кремниевой долины -->
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtxNTYxM21vYjdkc3NpZG94dXRxdmZqNjl2N2R1NjZteXF5Z3d5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPzgJgWFJXdYMU/giphy.gif" width="450px" alt="Silicon Valley GIF" />
+    <!-- Замена гифки на статическое изображение, гарантированно поддерживаемое GitHub -->
+    <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="450px" alt="Programmer Animation" />
   </div>
   <p align="center">
     Вайбкодинг — это подход, где я описываю задачу ИИ в нескольких предложениях, а он генерирует код, 
