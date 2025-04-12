@@ -127,14 +127,14 @@
   <img height="120" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 </div>
 
-<!-- Новые виджеты -->
+<!-- Улучшенная статистика -->
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/3oKIPsx2VAYAgEHC12/giphy.gif" width="35px" height="35px" style="margin-bottom:-9px;"> 
-    ДОПОЛНИТЕЛЬНЫЕ ВИДЖЕТЫ
+    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" style="margin-bottom:-9px;"> 
+    СТАТИСТИКА
   </h2>
   
-  <!-- Статистика используемых языков -->
+  <!-- Статистика языков программирования -->
   <div>
     <h3>🔥 Статистика языков программирования</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" />
@@ -148,17 +148,8 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" />
     <p><i>Визуализация вашей активности на GitHub</i></p>
   </div>
-</div>
-
-<!-- Анимированный разделитель -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<!-- Улучшенная статистика -->
-<div align="center">
-  <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" height="30px" style="margin-bottom:-9px;"> 
-    СТАТИСТИКА
-  </h2>
+  
+  <br/>
   
   <!-- Анимированные статистики в современном стиле -->
   <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&bg_color=0d1117&theme=radical&show_icons=true&line_height=27&card_width=500&hide_border=true&include_all_commits=true&count_private=true&text_color=4DFFCF&icon_color=FF58B3&title_color=4DFFCF" alt="GitHub Stats" />
