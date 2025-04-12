@@ -66,8 +66,6 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </div>
@@ -129,18 +127,56 @@
   </div>
 </div>
 
-<!-- Контакты с анимированными кнопками -->
-<h2>🌐 Связаться со мной</h2>
-<div align="center">
-  <a href="https://t.me/reazonvan">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+<!-- Улучшенные контакты с неоновым эффектом -->
+<details open>
+  <summary><h2>🌐 Связаться со мной</h2></summary>
+  <!-- Неоновая рамка для контактов -->
+  <div align="center" style="background: linear-gradient(90deg, #4DFFCF 0%, #6A65FC 50%, #FF58B3 100%); border-radius:15px; padding:3px; margin:20px 0;">
+    <div style="background-color:#0d1117; border-radius:12px; padding:20px;">
+      <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+        <!-- Телеграм с улучшенным дизайном -->
+        <a href="https://t.me/reazonvan" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
+          <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
+        </a>
+        <!-- Email с улучшенным дизайном -->
+        <a href="mailto:reazonvan206@gmail.com" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
+        </a>
+        <!-- GitHub с улучшенным дизайном -->
+        <a href="https://github.com/reazonvan" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
+        </a>
+      </div>
+      
+      <!-- Дополнительное сообщение -->
+      <p align="center" style="color:#4DFFCF; margin-top:15px; font-size:14px;">
+        Готов к сотрудничеству! Свяжитесь со мной для обсуждения интересных проектов с применением ИИ!
+      </p>
+    </div>
+  </div>
+</details>
+
+<!-- Счетчик просмотров профиля в неоновой рамке -->
+<div align="center" style="margin:20px 0;">
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="400px" />
   </a>
-  <a href="mailto:reazonvan206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <div style="background: linear-gradient(90deg, #4DFFCF 0%, #6A65FC 50%, #FF58B3 100%); padding:2px; border-radius:10px; display:inline-block; margin:15px 0;">
+    <div style="background-color:#0d1117; border-radius:8px; padding:8px 15px;">
+      <img src="https://komarev.com/ghpvc/?username=reazonvan&color=4DFFCF&style=for-the-badge&label=ПРОФИЛЬ+ПРОСМОТРЕН" alt="Profile Views" />
+    </div>
+  </div>
+  <a href="#">
+    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="400px" />
   </a>
 </div>
 
-<!-- Подвал с градиентом и волной -->
+<!-- Улучшенный подвал с градиентом и дополнительной информацией -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=120&section=footer" alt="Footer" />
-</a> 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=120&section=footer&text=Спасибо%20за%20посещение!&fontSize=24&fontColor=ffffff&fontAlignY=80" alt="Footer" />
+</a>
+
+<!-- Дополнительная информация внизу с неоновым эффектом -->
+<div align="center" style="margin-top:-50px; margin-bottom:20px; color:#4DFFCF; font-size:12px;">
+  <p>Сделано с ❤️ и ChatGPT • © 2023 Reazonvan • Вайбкодинг — это будущее</p>
+</div> 
