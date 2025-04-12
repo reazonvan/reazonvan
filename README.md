@@ -1,19 +1,21 @@
-# Добро пожаловать в мою кодовую вселенную 🌃✨
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=00FF00&center=true&vCenter=true&width=600&lines=Добро+пожаловать+в+мою+кодовую+вселенную!+🌌✨" alt="Typing Animation">
+</p>
 
-Привет! Я [Ваше Имя], вайбкодер, который превращает строки кода в настоящие цифровые вайбы. Для меня программирование — это не просто работа, а искусство, где каждая функция, каждый пиксель и каждая анимация пропитаны стилем и атмосферой.
-
----
-
-## Кто я? 🌀
-
-- 🎨 **Творю код с душой**: люблю, когда мои проекты не только работают, но и цепляют взгляд.  
-- 🎧 **Музыка — мой топливо**: пишу код под lo-fi биты или эпичные саундтреки.  
-- 🌌 **Мечтатель**: вдохновляюсь космосом, технологиями и всем, что выходит за рамки обыденного.  
-- ☕ **Кофе — мой союзник**: без него ни один pull request не обходится.  
+Привет! Я **[Ваше Имя]**, вайбкодер, который превращает код в искусство. Для меня каждая строка — это часть большого цифрового вайба, где технологии, стиль и анимации сливаются воедино.
 
 ---
 
-## Мои навыки ⚙️
+## Кто я? 🌟
+
+- 🎨 **Код с душой**: мои проекты — это не только функционал, но и эстетика.  
+- 🎶 **Музыка в сердце**: пишу код под lo-fi или эпичные саундтреки.  
+- ☄️ **Мечтатель**: вдохновляюсь космосом и будущим технологий.  
+- ☕ **Кофе — мой спутник**: без него ни один merge не обходится.  
+
+---
+
+## Мои навыки ⚡
 
 | **Категория**      | **Технологии**                  |
 |---------------------|---------------------------------|
@@ -22,41 +24,110 @@
 | **Инструменты**    | Git, Docker, VS Code, Figma     |
 | **Вайб**          | Анимации, UI/UX, креативность   |
 
+### Прогресс навыков 📊  
+![Skills](https://skillicons.dev/icons?i=js,react,python,django,git,docker,figma,ts&theme=dark&perline=4)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ваш_username&layout=compact&theme=dracula&hide_border=true" alt="WakaTime Stats"/>
+</p>
+
 ---
 
 ## Мои проекты 🚀
 
 1. **[Название проекта 1](ссылка)**  
-   - **Описание**: Интерактивное веб-приложение с плавными анимациями и космической темой.  
+   - **Описание**: Веб-приложение с анимациями и космической темой.  
    - **Технологии**: React, GSAP, Node.js  
    - **[Демо](ссылка) | [Репозиторий](ссылка)]**
 
 2. **[Название проекта 2](ссылка)**  
-   - **Описание**: Минималистичная платформа с мощным бэкендом и стильным дизайном.  
+   - **Описание**: Платформа с минималистичным дизайном и мощным бэкендом.  
    - **Технологии**: Python, Django, PostgreSQL  
    - **[Демо](ссылка) | [Репозиторий](ссылка)]**
 
 ---
 
-## Моя GitHub-статистика 📊
+## GitHub-статистика 📈
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dracula&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=dracula&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваш_username&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
+</p>
 
 ---
 
-## Недавняя активность 🔥
+## Активность 🔥
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ваш_username&theme=dracula&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваш_username&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Трофеи GitHub 🏆
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ваш_username&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## Цитата дня 💡
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Код+—+это+поэзия,+а+я+—+поэт+с+клавиатурой." alt="Quote"/>
+</p>
+
+---
+
+## Погода в моём городе 🌦️
+
+<p align="center">
+  <img src="https://wttr.in/ваш_город.png?format=3" alt="Weather"/>
+</p>
+
+---
+
+## Карта посещений 🌍
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ваш_username.ваш_username" alt="Visitor Map"/>
+</p>
+
+---
+
+## Музыка для вайба 🎵 _
+
+<p align="center">
+  <img src="https://novatorem.vercel.app/api/spotify?user=ваш_spotify_id" alt="Spotify Player"/>
+</p>
+
+---
+
+## Последние коммиты 🕒
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ваш_username&theme=dracula&hide_border=true" alt="Activity Graph"/>
+</p>
+
+---
+
+## Анимированные иконки технологий 🌠
+
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXqS1tF2e1g/giphy.gif" width="50" alt="JS"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50" alt="React"/>
+  <img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="50" alt="Python"/>
+</p>
 
 ---
 
 ## Связаться со мной 📡
 
 <p align="center">
-  <a href="https://twitter.com/ваш_twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ваш_linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://ваш_сайт"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white"></a>
+  <a href="https://twitter.com/ваш_twitter"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ваш_linkedin"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://ваш_сайт"><img src="https://img.shields.io/badge/-Portfolio-FF7139?style=flat&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
@@ -69,9 +140,9 @@
 
 ---
 
-## Давай творить вместе! 🌟
+## Давай творить вместе! 🌌
 
-Если у тебя есть идея, проект или просто хочется поболтать о коде, дизайне или жизни — пиши мне! Я всегда открыт для коллабораций и новых приключений в мире технологий.
+Если у вас есть идеи, проекты или просто хочется поговорить о коде и жизни — пишите! Я открыт для коллабораций и новых вайбовых приключений.
 
 <p align="center">
   <i>Код — это поэзия, а я — поэт с клавиатурой. 🚀</i>
