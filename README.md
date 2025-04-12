@@ -134,36 +134,29 @@
     СТАТИСТИКА
   </h2>
   
-  <!-- Контейнер для двухколоночного отображения первых виджетов -->
-  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:15px; margin-bottom:15px;">
-    <!-- Колонка 1 -->
-    <div style="flex:1; min-width:290px; max-width:450px;">
-      <h3>🔥 Статистика языков программирования</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" width="100%" />
-    </div>
-    
-    <!-- Колонка 2 -->
-    <div style="flex:1; min-width:290px; max-width:450px;">
-      <h3>🌟 Статистика вкладов</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&bg_color=0d1117&theme=radical&show_icons=true&line_height=27&card_width=500&hide_border=true&include_all_commits=true&count_private=true&text_color=4DFFCF&icon_color=FF58B3&title_color=4DFFCF" alt="GitHub Stats" width="100%" />
-    </div>
-  </div>
+  <!-- Статистики в современном стиле -->
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔥 Статистика языков программирования</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&bg_color=0d1117&theme=radical&show_icons=true&line_height=27&card_width=500&hide_border=true&include_all_commits=true&count_private=true&text_color=4DFFCF&icon_color=FF58B3&title_color=4DFFCF" alt="GitHub Stats" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=radical&background=0d1117&ring=4DFFCF&fire=FF58B3&currStreakNum=FFFFFF&sideNums=4DFFCF&currStreakLabel=4DFFCF&sideLabels=4DFFCF&dates=6A65FC&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <h3>📅 3D карта активности</h3>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" width="100%" />
+      </td>
+    </tr>
+  </table>
   
-  <!-- Полноширинные виджеты -->
-  <div>
-    <h3>🔥 Серия активности</h3>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=radical&background=0d1117&ring=4DFFCF&fire=FF58B3&currStreakNum=FFFFFF&sideNums=4DFFCF&currStreakLabel=4DFFCF&sideLabels=4DFFCF&dates=6A65FC&hide_border=true" alt="GitHub Streak" />
-  </div>
-  
-  <div>
-    <h3>📅 3D карта активности</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" width="85%" />
-  </div>
-  
-  <!-- График активности -->
-  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazonvan&bg_color=0d1117&color=4DFFCF&line=FF58B3&point=6A65FC&area=true&area_color=6A65FC&hide_border=true&custom_title=Активность%20Контрибуций" alt="Contribution Graph" width="95%" />
-  </div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazonvan&bg_color=0d1117&color=4DFFCF&line=FF58B3&point=6A65FC&area=true&area_color=6A65FC&hide_border=true&custom_title=Активность%20Контрибуций" alt="Contribution Graph" width="95%" />
 </div>
 
 <!-- Цитата из Кремниевой долины в неоновой рамке -->
