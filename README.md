@@ -1,79 +1,99 @@
+<!-- Заголовок с анимированным приветствием и неоновым эффектом -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00¢er=true&vCenter=true&width=500&lines=Привет!+Я+Reazonvan👋;Энтузиаст+ИИ+и+вайбкодинга" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2500&pause=800&color=4DFFCF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Reazonvan;%F0%9F%92%A1+%D0%AD%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82+%D0%98%D0%98+%D0%B8+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%D0%B0+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Добро+пожаловать+в+мой+мир+вайбкодинга!&fontSize=30&animation=fadeIn" alt="Banner" />
-</div>
+<!-- Стильный баннер с градиентом -->
+<a href="#" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=250&section=header&text=Добро%20пожаловать%20в%20мой%20мир%20вайбкодинга!&fontSize=30&animation=fadeIn&fontAlignY=40&fontColor=ffffff&desc=Где%20креативность%20встречается%20с%20искусственным%20интеллектом&descAlignY=60&descSize=16" width="100%" alt="Banner" />
+</a>
 
----
+<!-- Информация обо мне в карточке с тенью -->
+<table align="center">
+  <tr>
+    <td>
+      <h2 align="center">🌟 Обо мне</h2>
+      <p align="center">
+        Я <b>Reazonvan</b> из Москвы, энтузиаст ИИ и вайбкодинга. Создаю проекты с помощью 
+        больших языковых моделей, таких как <b>Cursor</b> и <b>GitHub Copilot</b>, чтобы ускорить 
+        разработку и воплощать идеи в жизнь. Моя цель — делиться опытом и вдохновлять 
+        других на использование ИИ в программировании!
+      </p>
+      <div align="center">
+        <img src="https://img.shields.io/badge/🔭%20Работаю-Автоматизация%20и%20генерация%20кода-6A65FC?style=for-the-badge" alt="Working on" /><br>
+        <img src="https://img.shields.io/badge/🌱%20Изучаю-Вайбкодинг%20и%20ИИ%20интеграцию-7EE787?style=for-the-badge" alt="Learning" /><br>
+        <img src="https://img.shields.io/badge/💬%20Обсуждаю-ИИ%20и%20будущее%20технологий-FF58B3?style=for-the-badge" alt="Discussing" /><br>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 🌟 Обо мне  
-Привет! Я **Reazonvan** из Москвы, энтузиаст ИИ и вайбкодинга. Я создаю проекты, используя силу больших языковых моделей, таких как **Cursor** и **GitHub Copilot**, чтобы ускорить разработку и воплощать идеи в жизнь. Моя цель — делиться опытом и вдохновлять других на использование ИИ в программировании! 🚀  
+<!-- Вайбкодинг с современными иконками и стилями -->
+<details open>
+  <summary><h2>💻 Что такое вайбкодинг?</h2></summary>
+  <div align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXkzYXVveGNod3EwbjJpMGQ5MWY2cnNueG1seGQxcnhrYzdha3pzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13HgwGsXF0aiGY/giphy.gif" width="380px" />
+  </div>
+  <p align="center">
+    Вайбкодинг — это подход, где я описываю задачу ИИ в нескольких предложениях, а он генерирует код, 
+    который я затем дорабатываю. Это позволяет мне быстро создавать проекты, даже без глубоких технических навыков!
+  </p>
+  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Cursor-00FF00?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge" />
+    <img src="https://img.shields.io/badge/GitHub%20Copilot-4078c0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot Badge" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" />
+  </div>
+</details>
 
-- 🔭 Работаю над проектами, связанными с автоматизацией и генерацией кода.  
-- 🌱 Изучаю новые подходы к вайбкодингу и интеграции ИИ в разработку.  
-- 💬 Люблю обсуждать ИИ, программирование и будущее технологий.  
-- 📫 Связаться со мной: [reazonvan206@gmail.com](mailto:reazonvan206@gmail.com) или [Telegram](https://t.me/reazonvan).  
+<!-- Проекты в современном формате карточек -->
+<details open>
+  <summary><h2>🛠️ Мои проекты вайбкодинга</h2></summary>
+  <div align="center">
+    <a href="https://github.com/reazonvan/podcast-transcriber">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=podcast-transcriber&theme=tokyonight&border_color=4DFFCF" />
+    </a>
+    <a href="https://github.com/reazonvan/chatbot-generator">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=chatbot-generator&theme=tokyonight&border_color=4DFFCF" />
+    </a>
+    <a href="https://github.com/reazonvan/weather-app">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=weather-app&theme=tokyonight&border_color=4DFFCF" />
+    </a>
+  </div>
+  
+  <div align="center">
+    <a href="https://github.com/reazonvan?tab=repositories">
+      <img src="https://img.shields.io/badge/Посмотреть%20все%20проекты-4DFFCF?style=for-the-badge&logo=github" alt="View All Projects" />
+    </a>
+  </div>
+</details>
 
----
+<!-- Статистика GitHub с улучшенным дизайном -->
+<details open>
+  <summary><h2>📊 Моя статистика</h2></summary>
+  <div align="center">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=reazonvan&count_private=true&show_icons=true&theme=tokyonight&border_color=4DFFCF&bg_color=0d1117&ring_color=4DFFCF&icon_color=4DFFCF&title_color=4DFFCF" alt="GitHub Stats" />
+    <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=tokyonight&border=4DFFCF&background=0d1117&ring=4DFFCF&fire=4DFFCF&currStreakLabel=4DFFCF" alt="GitHub Streak" />
+    <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=tokyonight&border_color=4DFFCF&bg_color=0d1117&title_color=4DFFCF" alt="Top Languages" />
+  </div>
 
-### 💻 Что такое вайбкодинг?  
-Вайбкодинг — это подход, где я описываю задачу ИИ в нескольких предложениях, а он генерирует код, который я затем дорабатываю. Это позволяет мне быстро создавать проекты, даже без глубоких технических навыков! Я использую:  
-- 🛠️ **Cursor** для генерации кода.  
-- 🤖 **GitHub Copilot** для автодополнения и идей.  
-- 📝 **Notion** для планирования задач.  
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=reazonvan&color=4DFFCF&style=for-the-badge" alt="Profile Views" />
+  </div>
+</details>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Использую-Cursor-00FF00?style=flat-square&logo=cursor" alt="Cursor Badge" />
-  <img src="https://img.shields.io/badge/Использую-GitHub%20Copilot-FF4500?style=flat-square&logo=github" alt="GitHub Copilot Badge" />
-  <img src="https://img.shields.io/badge/Планирую-Notion-FFFFFF?style=flat-square&logo=notion" alt="Notion Badge" />
-</div>
-
----
-
-### 🛠️ Мои проекты вайбкодинга  
-Вот несколько проектов, которые я создал с помощью ИИ:  
-- **[Podcast Transcriber](https://github.com/reazonvan/podcast-transcriber)**  
-  Инструмент для транскрипции подкастов, созданный с использованием Cursor. ИИ сгенерировал 80% кода, а я настроил API и интерфейс. 🎙️  
-- **[Chatbot Generator](https://github.com/reazonvan/chatbot-generator)**  
-  Генератор чат-ботов на базе ИИ, где GitHub Copilot помог написать логику обработки текста. 🤖  
-- **[Weather App](https://github.com/reazonvan/weather-app)**  
-  Простое приложение для прогноза погоды, созданное с помощью вайбкодинга за 2 часа! ☀️  
-
-<div align="center">
-  <a href="https://github.com/reazonvan?tab=repositories">
-    <img src="https://img.shields.io/badge/Посмотреть%20все%20проекты-Посмотреть-blue?style=for-the-badge" alt="View All Projects" />
-  </a>
-</div>
-
----
-
-### 📊 Моя статистика  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=reazonvan&color=green" alt="Profile Views" />
-</div>
-
----
-
-### 🌐 Связаться со мной  
+<!-- Контакты с анимированными кнопками -->
+<h2>🌐 Связаться со мной</h2>
 <div align="center">
   <a href="https://t.me/reazonvan">
-    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:reazonvan206@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" alt="Footer" />
-</div>
+<!-- Подвал с градиентом и волной -->
+<a href="#">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=120&section=footer" alt="Footer" />
+</a> 
