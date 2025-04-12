@@ -60,15 +60,6 @@
 <details open>
   <summary><h2>🛠️ Мои проекты вайбкодинга</h2></summary>
   <div align="center">
-    <a href="https://github.com/reazonvan/podcast-transcriber">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=podcast-transcriber&theme=tokyonight&border_color=4DFFCF" />
-    </a>
-    <a href="https://github.com/reazonvan/chatbot-generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=chatbot-generator&theme=tokyonight&border_color=4DFFCF" />
-    </a>
-    <a href="https://github.com/reazonvan/weather-app">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=weather-app&theme=tokyonight&border_color=4DFFCF" />
-    </a>
     <a href="https://github.com/reazonvan/TaskApp">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=TaskApp&theme=tokyonight&border_color=4DFFCF" />
     </a>
