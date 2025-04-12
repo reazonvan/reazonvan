@@ -1,6 +1,16 @@
 <!-- Заголовок с анимированным приветствием и неоновым эффектом -->
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2500&pause=800&color=4DFFCF&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Reazonvan;%F0%9F%92%A1+%D0%AD%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82+%D0%98%D0%98+%D0%B8+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%D0%B0+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <!-- Неоновая рамка для приветствия -->
+  <div style="border-radius:15px; background: linear-gradient(90deg, #4DFFCF 0%, #6A65FC 50%, #FF58B3 100%); padding:3px; margin-bottom:20px;">
+    <div style="background-color:#0d1117; border-radius:12px; padding:20px;">
+      <!-- Улучшенная анимация текста с градиентом -->
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=32&duration=3000&pause=1000&color=4DFFCF&center=true&vCenter=true&multiline=true&random=false&width=600&height=120&lines=%F0%9F%94%AE+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+Reazonvan+%F0%9F%94%AE;%F0%9F%92%A1+%D0%AD%D0%BD%D1%82%D1%83%D0%B7%D0%B8%D0%B0%D1%81%D1%82+%D0%98%D0%98+%D0%B8+%D0%B2%D0%B0%D0%B9%D0%B1%D0%BA%D0%BE%D0%B4%D0%B8%D0%BD%D0%B3%D0%B0+%F0%9F%9A%80" alt="Typing SVG" />
+      </a>
+      <!-- Дополнительная линия с градиентом под приветствием -->
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="500px" />
+    </div>
+  </div>
 </div>
 
 <!-- Стильный баннер с градиентом -->
