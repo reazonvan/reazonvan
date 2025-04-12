@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Привет!+Я+Reazonvan👋;Энтузиаст+ИИ+и+вайбкодинга" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00¢er=true&vCenter=true&width=500&lines=Привет!+Я+Reazonvan👋;Энтузиаст+ИИ+и+вайбкодинга" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Добро+пожаловать+в+мой+мир+вайбкодинга!&fontSize=30&animation=fadeIn" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200§ion=header&text=Добро+пожаловать+в+мой+мир+вайбкодинга!&fontSize=30&animation=fadeIn" alt="Banner" />
 </div>
 
 ---
 
 ### 🌟 Обо мне  
-Привет! Я **Reazonvan**, энтузиаст ИИ и вайбкодинга. Я создаю проекты, используя силу больших языковых моделей, таких как **Cursor** и **GitHub Copilot**, чтобы ускорить разработку и воплощать идеи в жизнь. Моя цель — делиться опытом и вдохновлять других на использование ИИ в программировании! 🚀  
+Привет! Я **Reazonvan** из Москвы, энтузиаст ИИ и вайбкодинга. Я создаю проекты, используя силу больших языковых моделей, таких как **Cursor** и **GitHub Copilot**, чтобы ускорить разработку и воплощать идеи в жизнь. Моя цель — делиться опытом и вдохновлять других на использование ИИ в программировании! 🚀  
 
 - 🔭 Работаю над проектами, связанными с автоматизацией и генерацией кода.  
 - 🌱 Изучаю новые подходы к вайбкодингу и интеграции ИИ в разработку.  
 - 💬 Люблю обсуждать ИИ, программирование и будущее технологий.  
-- 📫 Связаться со мной: [email@example.com](mailto:email@example.com) или через [X](https://x.com/yourusername).  
+- 📫 Связаться со мной: [reazonvan206@gmail.com](mailto:reazonvan206@gmail.com) или [Telegram](https://t.me/reazonvan).  
 
 ---
 
@@ -64,13 +64,10 @@
 
 ### 🌐 Связаться со мной  
 <div align="center">
-  <a href="https://x.com/yourusername">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  <a href="https://t.me/reazonvan">
+    <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:email@example.com">
+  <a href="mailto:reazonvan206@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -78,5 +75,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100§ion=footer" alt="Footer" />
 </div>
