@@ -137,7 +137,7 @@
   <!-- Статистика языков программирования -->
   <div>
     <h3>🔥 Статистика языков программирования</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" width="500" />
   </div>
   
   <br/>
@@ -145,7 +145,7 @@
   <!-- 3D Вклад калькулятор -->
   <div>
     <h3>📅 3D карта активности</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" width="800" />
   </div>
   
   <br/>
