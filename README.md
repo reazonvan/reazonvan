@@ -1,91 +1,110 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=2000&color=FF00FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Reazonvan+👾;Энтузиаст+ИИ+и+вайбкодинга+🚀&duration=3000&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Reazonvan+👾;Энтузиаст+ИИ+и+вайбкодинга+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Добро+пожаловать+в+мой+космос+вайбкодинга!&fontSize=40&fontColor=FFFFFF&animation=scale&duration=2000" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=Добро+пожаловать+в+мой+космос+вайбкодинга!&fontSize=40&fontColor=FFFFFF&animation=twinkling" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🚀+Творец+ИИ+магии;💻+Вдохновитель+вайбкодеров;✨+Генератор+креативных+решений" alt="Typing SVG" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=reazonvan&theme=dracula&no-frame=true&margin-w=15&column=6" alt="Trophies" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reazonvan&theme=matrix&no-frame=true&margin-w=15&column=6&rank=SSS,SS,S,AAA,AA,A,B" alt="Trophies" />
-</div>
-
-<!-- Анимированный разделитель -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/divider.gif" width="100%" height="30" alt="animated divider">
-</div>
+---
 
 ### 🌌 Кто я?  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/ai-robot.gif" width="200" align="right" alt="AI Robot">
-</div>
+Привет, я **Reazonvan** — энтузиаст ИИ и вайбкодинга, который создает проекты с помощью больших языковых моделей! 🌟 Я использую **Cursor** и **GitHub Copilot**, чтобы превращать идеи в код за считанные часы. Моя миссия — вдохновлять других на использование ИИ в программировании и делиться своим опытом.  
 
-Привет, я **Reazonvan** — цифровой алхимик, превращающий идеи в код с помощью магии ИИ! 🌟 Каждую неделю я создаю новые инструменты используя **Cursor** × **GitHub Copilot** × **ChatGPT**. Моя сверхспособность — ускоренная разработка через симбиоз с нейросетями.  
-
-- 🔭 Создаю автономные AI-агенты и генеративные системы  
-- 🌱 Осваиваю нейроархитектуры и квантовые вычисления  
-- 💡 Экспериментирую с генеративным дизайном и WebGL  
-- 📫 Как связаться: [![Telegram](https://img.shields.io/badge/-@reazonvan-26A5E4?style=flat-square&logo=telegram)](https://t.me/reazonvan) [![Email](https://img.shields.io/badge/-email%40example.com-FF00FF?style=flat-square&logo=gmail)](mailto:email@example.com)
+- 🔭 Работаю над проектами автоматизации и генерации кода.  
+- 🌱 Изучаю новые ИИ-инструменты и подходы к вайбкодингу.  
+- 💡 Люблю экспериментировать с технологиями и делиться результатами.  
+- 📫 Связаться со мной: [email@example.com](mailto:email@example.com) или через [X](https://x.com/yourusername).  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,js,ts,react,next,threejs&theme=dark&perline=8" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode,notion" alt="Skills" />
 </div>
 
-<!-- Парящая анимация -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/floating-astronaut.gif" width="300" alt="Floating Astronaut">
-</div>
+---
 
-### 🛸 Вайбкодинг в действии
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/code-wave.gif" width="400" alt="Code Wave">
-</div>
-
-Создаю цифровые миры через нейроинтерфейсы:  
-- 🧠 **Нейроархитектура** — проектирую системы с динамической топологией  
-- 🌐 **Генеративный UI** — автоматизирую создание интерфейсов  
-- ⚡ **Ускорение кода** — оптимизирую через AI-анализ паттернов  
+### 🛸 Что такое вайбкодинг?  
+Вайбкодинг — это магия, где я описываю задачу ИИ, а он генерирует код, который я затем дорабатываю. Это позволяет мне создавать проекты быстрее и эффективнее! ✨ Мои любимые инструменты:  
+- 🛠️ **Cursor** — для генерации кода с нуля.  
+- 🤖 **GitHub Copilot** — для автодополнения и идей.  
+- 📝 **Notion** — для планирования и идей.  
 
 <div align="center">
-  <a href="https://cursor.so">
-    <img src="https://img.shields.io/badge/Cursor-FF00FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACZSURBVChTjZJBCsAgDAPnQfDg/7/1UYqgq6XqQ0i7pE2hNcZxJNcKkDknVQwQqgKqQlJQlS4hQJYQoJ4hQHtUQ1C1DAGyBwVkDxHqGQK0z1oQwDMEaJ9pQYD2mRYEaJ9pQYD2mRYEaJ9pQYD2mRYEaJ9pQYD2mRYEaJ9pQYD2mRYEaJ9pQYD2mRYEaJ9pQYD2mRYE+AP8Ad+1H0sZKL6PAAAAAElFTkSuQmCC&logoColor=white&labelColor=000000&colorA=FF00FF&colorB=00FFFF&animate=glow" alt="Cursor">
-  </a>
-  <a href="https://copilot.github.com">
-    <img src="https://img.shields.io/badge/GitHub_Copilot-00FFFF?style=for-the-badge&logo=github&logoColor=black&labelColor=000000&animate=glow" alt="GitHub Copilot">
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/Использую-Cursor-FF00FF?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Использую-GitHub%20Copilot-00FFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Copilot Badge" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Планирую-Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge" />
 </div>
 
-<!-- Анимированная сетка проектов -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/project-grid.gif" width="100%" alt="Project Grid">
-</div>
+---
 
-### 🚀 Топ-проекты
-| Проект | Технологии | Демо |
-|--------|------------|------|
-| **[NeuroVoice](https://github.com/reazonvan/neurovoice)** | Python, Whisper, GPT-4 | <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/neurovoice-demo.gif" width="150"> |
-| **[AI Canvas](https://github.com/reazonvan/ai-canvas)** | React, Three.js, TensorFlow.js | <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/ai-canvas-demo.gif" width="150"> |
-| **[Code Alchemist](https://github.com/reazonvan/code-alchemist)** | TypeScript, LLM, WebAssembly | <img src="https://raw.githubusercontent.com/reazonvan/reazonvan/main/assets/code-alchemist-demo.gif" width="150"> |
+### 🚀 Мои проекты вайбкодинга  
+Вот несколько проектов, созданных с помощью ИИ:  
+- **[Podcast Transcriber](https://github.com/reazonvan/podcast-transcriber)** 🎙️  
+  Инструмент для транскрипции подкастов, где Cursor сгенерировал 80% кода, а я настроил API и UI.  
+- **[Chatbot Generator](https://github.com/reazonvan/chatbot-generator)** 🤖  
+  Генератор чат-ботов, где GitHub Copilot помог с логикой обработки текста.  
+- **[Weather App](https://github.com/reazonvan/weather-app)** ☀️  
+  Простое приложение для прогноза погоды, созданное за 2 часа с помощью вайбкодинга!  
 
 <div align="center">
   <a href="https://github.com/reazonvan?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/badge/🚀_Все_проекты-FF00FF?style=for-the-badge&logo=rocket&logoColor=white&animate=pulse" alt="All Projects">
+    <img src="https://custom-icon-badges.demolab.com/badge/Посмотреть%20все%20проекты-🌟-FF00FF?style=for-the-badge&logo=sparkles" alt="View All Projects" />
   </a>
 </div>
 
-<!-- Анимированная статистика -->
+---
+
+### 🏆 Мои достижения  
+- 🥇 Создал 10+ проектов с помощью вайбкодинга.  
+- 🌟 Получил 50+ звезд на GitHub за мои проекты.  
+- 📝 Написал статью о вайбкодинге на [Medium](https://medium.com/@yourusername).  
+- 🤝 Внес вклад в 5 открытых проектов, связанных с ИИ.  
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&line_height=24&custom_title=📊+Моя+нейростатистика" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=300" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=podcast-transcriber&theme=dracula" alt="Pinned Repo 1" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=chatbot-generator&theme=dracula" alt="Pinned Repo 2" />
 </div>
 
-<!-- Анимированный футер -->
+---
+
+### 📈 Моя статистика  
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=До+новых+встреч+в+цифровой+вселенной!+✨&fontSize=20&animation=twinkling&fontColor=FFFFFF&duration=3000" alt="Footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reazonvan&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=reazonvan&color=FF00FF&style=flat-square" alt="Profile Views" />
+</div>
+
+---
+
+### 🌐 Связаться со мной  
+<div align="center">
+  <a href="https://x.com/yourusername">
+    <img src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:email@example.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+---
+
+### 🎉 Fun Fact  
+Я создал свой первый проект вайбкодинга всего за 3 часа, описав идею в 5 предложениях! ИИ сделал остальное. 🚀  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKz2vFVpXSVfWxy/giphy.gif" width="200" alt="Coding GIF" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=Спасибо+за+визит!+✨&fontSize=20&animation=twinkling" alt="Footer Banner" />
 </div>
