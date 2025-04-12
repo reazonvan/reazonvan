@@ -69,6 +69,15 @@
     <a href="https://github.com/reazonvan/weather-app">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=weather-app&theme=tokyonight&border_color=4DFFCF" />
     </a>
+    <a href="https://github.com/reazonvan/TaskApp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=TaskApp&theme=tokyonight&border_color=4DFFCF" />
+    </a>
+    <a href="https://github.com/reazonvan/gameproject">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=gameproject&theme=tokyonight&border_color=4DFFCF" />
+    </a>
+    <a href="https://github.com/reazonvan/island">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=island&theme=tokyonight&border_color=4DFFCF" />
+    </a>
   </div>
   
   <div align="center">
