@@ -135,59 +135,19 @@
   </h2>
   
   <!-- Статистика используемых языков -->
-  <details>
-    <summary><b>🔥 Статистика языков программирования</b></summary>
-    <br/>
+  <div>
+    <h3>🔥 Статистика языков программирования</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="Используемые языки" />
-  </details>
+  </div>
   
-  <!-- GitHub трофеи -->
-  <details>
-    <summary><b>🏆 GitHub Трофеи</b></summary>
-    <br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=reazonvan&theme=radical&no-frame=true&column=7&bg_color=0d1117" alt="GitHub Трофеи" />
-  </details>
-  
-  <!-- Виджет WakaTime -->
-  <details>
-    <summary><b>⏱️ Время кодирования за неделю</b></summary>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=reazonvan&theme=radical&bg_color=0d1117&hide_border=true&text_color=4DFFCF&title_color=4DFFCF" alt="WakaTime статистика" />
-    <p><i>Примечание: Требуется настройка WakaTime и подключение к аккаунту GitHub</i></p>
-  </details>
-  
-  <!-- Spotify Now Playing -->
-  <details>
-    <summary><b>🎵 Сейчас слушаю</b></summary>
-    <br/>
-    <a href="https://open.spotify.com/user/reazonvan">
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=reazonvan&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=4DFFCF" alt="Spotify Now Playing" />
-    </a>
-    <p><i>Примечание: Требуется подключение аккаунта Spotify</i></p>
-  </details>
-  
-  <!-- Платформа поддержки -->
-  <details>
-    <summary><b>☕ Поддержать проекты</b></summary>
-    <br/>
-    <a href="https://www.buymeacoffee.com/reazonvan"><img src="https://img.buymeacoffee.com/button-api/?text=Поддержать%20проект&emoji=&slug=reazonvan&button_colour=4DFFCF&font_colour=0d1117&font_family=Poppins&outline_colour=ffffff&coffee_colour=FF58B3" alt="Buy Me A Coffee" /></a>
-    <p><i>Примечание: Требуется настройка профиля на Buy Me a Coffee</i></p>
-  </details>
+  <br/>
   
   <!-- 3D Вклад калькулятор -->
-  <details>
-    <summary><b>📅 3D карта активности</b></summary>
-    <br/>
+  <div>
+    <h3>📅 3D карта активности</h3>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reazonvan&theme=radical" alt="3D контрибуция" />
     <p><i>Визуализация вашей активности на GitHub</i></p>
-  </details>
-  
-  <!-- Метрика кода -->
-  <details>
-    <summary><b>📊 Подробная метрика кода</b></summary>
-    <br/>
-    <img src="https://metrics.lecoq.io/reazonvan?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&achievements=1&notable=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&notable.repositories=false&config.timezone=Europe%2FMoscow" alt="Детальная метрика" />
-  </details>
+  </div>
 </div>
 
 <!-- Анимированный разделитель -->
