@@ -127,47 +127,39 @@
   </div>
 </div>
 
-<!-- Улучшенные контакты с неоновым эффектом -->
-<details open>
-  <summary><h2>🌐 Связаться со мной</h2></summary>
-  <!-- Неоновая рамка для контактов -->
-  <div align="center" style="background: linear-gradient(90deg, #4DFFCF 0%, #6A65FC 50%, #FF58B3 100%); border-radius:15px; padding:3px; margin:20px 0;">
-    <div style="background-color:#0d1117; border-radius:12px; padding:20px;">
-      <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-        <!-- Телеграм с улучшенным дизайном -->
-        <a href="https://t.me/reazonvan" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
-          <img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram" />
-        </a>
-        <!-- Email с улучшенным дизайном -->
-        <a href="mailto:reazonvan206@gmail.com" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-        </a>
-        <!-- GitHub с улучшенным дизайном -->
-        <a href="https://github.com/reazonvan" style="text-decoration:none; transform:scale(1.0); transition:transform 0.3s;">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
-        </a>
-      </div>
-      <p align="center" style="color:#4DFFCF; margin-top:15px; font-size:14px;">Готов к сотрудничеству! Свяжитесь со мной для обсуждения интересных проектов с применением ИИ!</p>
-    </div>
-  </div>
-</details>
+<!-- Контакты в новом лаконичном стиле -->
+<h2>🌐 Связаться со мной</h2>
 
-<!-- Счетчик просмотров профиля в неоновой рамке -->
-<div align="center" style="margin:20px 0;">
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="400px" />
+<div align="center">
+  <a href="https://t.me/reazonvan">
+    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <div style="background: linear-gradient(90deg, #4DFFCF 0%, #6A65FC 50%, #FF58B3 100%); padding:2px; border-radius:10px; display:inline-block; margin:15px 0;">
-    <div style="background-color:#0d1117; border-radius:8px; padding:8px 15px;">
-      <img src="https://komarev.com/ghpvc/?username=reazonvan&color=4DFFCF&style=for-the-badge&label=ПРОФИЛЬ+ПРОСМОТРЕН" alt="Profile Views" />
-    </div>
-  </div>
-  <a href="#">
-    <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="400px" />
+  <a href="mailto:reazonvan206@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/reazonvan">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<!-- Улучшенный подвал с градиентом и дополнительной информацией -->
+<p align="center" style="color:#4DFFCF; margin-top:15px; font-size:14px;">
+  Готов к сотрудничеству! Свяжитесь со мной для обсуждения интересных проектов с применением ИИ!
+</p>
+
+<!-- Разделительная линия -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%" />
+
+<!-- Счетчик просмотров в лаконичном стиле -->
+<div align="center" style="margin:20px 0;">
+  <div style="display:inline-block; background-color: #333; border-radius:4px; padding:8px 12px;">
+    <img src="https://komarev.com/ghpvc/?username=reazonvan&color=4DFFCF&style=for-the-badge&label=ПРОФИЛЬ+ПРОСМОТРЕН" alt="Profile Views" />
+  </div>
+</div>
+
+<!-- Разделительная линия -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,2,5,30&section=footer" width="100%" />
+
+<!-- Улучшенный подвал с градиентом -->
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3494E6,100:EC6EAD&height=120&section=footer&text=Спасибо%20за%20посещение!&fontSize=24&fontColor=ffffff&fontAlignY=80" alt="Footer" />
 </a> 
