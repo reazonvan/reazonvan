@@ -24,18 +24,18 @@
 
 <br />
 
-### // FEATURED PROJECTS
+### // MAIN PROJECT
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/reazonvan/TaskApp">TaskApp</a></h4>
-      <p>Менеджер задач с акцентом на UX. Реализация сложной бизнес-логики и локального хранения данных.</p>
-      <code>Kotlin</code> <code>Android</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/reazonvan/gameproject">GameProject</a></h4>
-      <p>Исследование игровых механик и системного взаимодействия. Работа с графикой и стейт-менеджментом.</p>
-      <code>Engine Logic</code> <code>Python/JS</code>
+    <td width="100%" style="padding: 20px; border: 1px solid #30363d; border-radius: 10px;">
+      <h3 align="center"><a href="https://github.com/reazonvan/LootLink---Marketplace">LootLink — Marketplace</a></h3>
+      <p align="center">
+        Современная торговая площадка. Проект объединяет в себе продуманную архитектуру, 
+        масштабируемый бэкенд и интуитивно понятный пользовательский интерфейс.
+      </p>
+      <div align="center">
+        <code>System Architecture</code> &nbsp; <code>Full-Stack Dev</code> &nbsp; <code>UI/UX</code>
+      </div>
     </td>
   </tr>
 </table>
