@@ -1,8 +1,11 @@
 <div align="center">
 
-# REAZONVAN
-**SYSTEM ARCHITECT | SOFTWARE ENGINEER**
-
+<h1 style="font-size: 3.5em; font-weight: 800; margin-top: 20px; margin-bottom: 10px; background: linear-gradient(to right, #4DFFCF, #6A65FC, #FF58B3); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent;">
+  REAZONVAN
+</h1>
+<p style="font-size: 1.1em; color: #8b949e; letter-spacing: 3px; margin-top: -10px;">
+  <b>SYSTEM ARCHITECT | SOFTWARE ENGINEER</b>
+</p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
 
 <br />
@@ -28,26 +31,18 @@
 ### // FEATURED PROJECTS
 <table width="100%">
   <tr>
-    <td width="50%" height="100px">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/reazonvan/TaskApp">TaskApp</a></h4>
       <p>Менеджер задач с акцентом на UX. Реализация сложной бизнес-логики и локального хранения данных.</p>
       <code>Kotlin</code> <code>Android</code>
     </td>
-    <td width="50%" height="100px">
+    <td width="50%" valign="top">
       <h4><a href="https://github.com/reazonvan/gameproject">GameProject</a></h4>
       <p>Исследование игровых механик и системного взаимодействия. Работа с графикой и стейт-менеджментом.</p>
       <code>Engine Logic</code> <code>Python/JS</code>
     </td>
   </tr>
 </table>
-
-<br />
-
-### // DEVELOPMENT ANALYTICS
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DFFCF&text_color=ffffff&icon_color=4DFFCF" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DFFCF&text_color=ffffff" width="42%" />
-</div>
 
 <br />
 
