@@ -1,72 +1,81 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=120&section=header&text=REAZONVAN&fontSize=50&fontColor=4DFFCF&animation=fadeIn" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&duration=4000&pause=1000&color=4DFFCF&center=true&vCenter=true&width=600&height=30&lines=AI-Assisted+Software+Engineering;Advanced+Prototyping+%26+Development;System+Architecture+%26+Automation" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=150&section=header&text=REAZONVAN&fontSize=75&fontColor=7aa2f7&animation=fadeIn" width="100%" />
+</div>
 
 <br />
-
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="60%" style="border: none; padding-right: 20px;">
-      <h3>EXECUTIVE SUMMARY</h3>
-      <p>
-        Разработчик, специализирующийся на гибридных методах программирования. Мой подход базируется на синергии глубокого понимания архитектуры и использовании инструментов генеративного интеллекта для ускорения цикла разработки.
-      </p>
-      <p>
-        Вместо традиционного кодинга я фокусируюсь на <b>prompt-engineering</b> и <b>code review</b>, что позволяет минимизировать технический долг на ранних этапах и кратно увеличить скорость выкатки MVP.
-      </p>
-    </td>
-    <td width="40%" style="border: none; border-left: 1px solid #30363d; padding-left: 20px;">
-      <h3>FOCUS AREAS</h3>
-      <code>• AI-Native Development</code><br />
-      <code>• Mobile Ecosystem (Android/Kotlin)</code><br />
-      <code>• Workflow Automation</code><br />
-      <code>• Backend Scalability (Python)</code>
-    </td>
-  </tr>
-</table>
-
-<br />
-
-<h3 align="center">CORE STACK</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/KOTLIN-%230d1117.svg?style=for-the-badge&logo=kotlin&logoColor=4DFFCF" />
-  <img src="https://img.shields.io/badge/PYTHON-%230d1117.svg?style=for-the-badge&logo=python&logoColor=4DFFCF" />
-  <img src="https://img.shields.io/badge/DOCKER-%230d1117.svg?style=for-the-badge&logo=docker&logoColor=4DFFCF" />
-  <img src="https://img.shields.io/badge/GIT-%230d1117.svg?style=for-the-badge&logo=git&logoColor=4DFFCF" />
-  <img src="https://img.shields.io/badge/AI_MODELS-%230d1117.svg?style=for-the-badge&logo=openai&logoColor=4DFFCF" />
-</p>
-
-<br />
-
-<h3 align="center">ANALYTICS</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=transparent&hide_border=true&title_color=4DFFCF&text_color=ffffff&icon_color=4DFFCF&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=transparent&hide_border=true&title_color=4DFFCF&text_color=ffffff&bg_color=0d1117" alt="Top Languages" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazonvan&bg_color=0d1117&color=4DFFCF&line=4DFFCF&point=ffffff&area=true&hide_border=true&font_size=14" width="100%" />
-</p>
-
-<br />
-
-<hr style="border: 0; border-top: 1px solid #30363d;" />
 
 <table align="center" width="100%">
   <tr>
-    <td align="left" style="border: none;">
-      <b>REAZONVAN</b> / 2026
+    <td width="55%" valign="top">
+      <h3>// ABOUT THE DEVELOPER</h3>
+      <p>Проектирую цифровые решения, ориентируясь на чистоту кода и скорость поставки продукта. Мой подход сочетает в себе классическую разработку и современные методики автоматизации рабочих процессов.</p>
+      <p>Специализируюсь на создании масштабируемых приложений и интеграции интеллектуальных инструментов в цикл разработки для достижения максимальной эффективности.</p>
     </td>
-    <td align="right" style="border: none;">
-      <a href="https://t.me/reazonvan" style="text-decoration: none; color: #4DFFCF;">TELEGRAM</a> &nbsp;|&nbsp; 
-      <a href="mailto:reazonvan206@gmail.com" style="text-decoration: none; color: #4DFFCF;">EMAIL</a> &nbsp;|&nbsp;
-      <a href="https://github.com/reazonvan" style="text-decoration: none; color: #4DFFCF;">GITHUB</a>
+    <td width="45%" valign="top">
+      <h3>// CORE EXPERTISE</h3>
+      <code><b>Languages:</b> Kotlin, Python, JS</code><br />
+      <code><b>Platforms:</b> Android, Web, Linux</code><br />
+      <code><b>Methodology:</b> AI-Augmented Dev</code><br />
+      <code><b>Focus:</b> Automation & Scalability</code>
     </td>
   </tr>
 </table>
+
+<br />
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Stack-Kotlin_%7C_Python_%7C_Docker_%7C_Git-24283b?style=flat-square&labelColor=7aa2f7&color=1a1b26" />
+    <img src="https://img.shields.io/badge/Tools-Cursor_%7C_VS_Code_%7C_Postman-24283b?style=flat-square&labelColor=7aa2f7&color=1a1b26" />
+  </p>
+</div>
+
+<br />
+
+<h3 align="center">// SYSTEM ANALYTICS</h3>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=reazonvan&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&title_color=7aa2f7&text_color=9aa5ce&icon_color=7aa2f7&bg_color=16161e" width="400" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reazonvan&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&title_color=7aa2f7&text_color=9aa5ce&bg_color=16161e" width="350" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reazonvan&bg_color=16161e&color=7aa2f7&line=7aa2f7&point=ffffff&area=true&hide_border=false&border_radius=10&font_size=14" width="100%" />
+</div>
+
+<br />
+
+<h3 align="center">// FEATURED REPOSITORIES</h3>
+<div align="center">
+  <a href="https://github.com/reazonvan/TaskApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=TaskApp&theme=tokyonight&border_radius=10&bg_color=16161e&title_color=7aa2f7" />
+  </a>
+  <a href="https://github.com/reazonvan/gameproject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=reazonvan&repo=gameproject&theme=tokyonight&border_radius=10&bg_color=16161e&title_color=7aa2f7" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <table width="100%" style="background-color: #1a1b26; border-radius: 10px;">
+    <tr>
+      <td align="center" style="padding: 20px;">
+        <code><b>reazonvan@terminal:~$</b> contact --list</code>
+        <br /><br />
+        <a href="https://t.me/reazonvan" style="color: #7aa2f7; text-decoration: none;">[ TELEGRAM ]</a> &nbsp;
+        <a href="mailto:reazonvan206@gmail.com" style="color: #7aa2f7; text-decoration: none;">[ EMAIL ]</a> &nbsp;
+        <a href="https://github.com/reazonvan" style="color: #7aa2f7; text-decoration: none;">[ GITHUB ]</a>
+      </td>
+    </tr>
+  </table>
+</div>
