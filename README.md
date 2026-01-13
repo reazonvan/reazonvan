@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=header&text=REAZONVAN&fontSize=80&fontColor=gradient&gradient=4DFFCF,6A65FC,FF58B3&animation=fadeIn&fontAlignY=45&desc=SYSTEM%20ARCHITECT%20%7C%20SOFTWARE%20ENGINEER&descFontSize=22&descColor=8b949e&descAlignY=75" alt="REAZONVAN - SYSTEM ARCHITECT" width="100%" style="margin-bottom: -20px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4DFFCF&height=200&section=header&text=REAZONVAN&fontSize=70&fontColor=0d1117&desc=SYSTEM%20ARCHITECT%20%7C%20SOFTWARE%20ENGINEER&descSize=20&descAlignY=65&animation=fadeIn" width="100%" />
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
 
 <br />
