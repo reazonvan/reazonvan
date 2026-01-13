@@ -1,9 +1,8 @@
 <div align="center">
 
-<h1 style="font-size: 3.5em; font-weight: 800; margin-top: 20px; margin-bottom: 10px; background: linear-gradient(to right, #4DFFCF, #6A65FC, #FF58B3); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent;">
-  REAZONVAN
-</h1>
-<p style="font-size: 1.1em; color: #8b949e; letter-spacing: 3px; margin-top: -10px;">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=REAZONVAN&fontSize=75&fontColor=gradient&gradient=4DFFCF,6A65FC,FF58B3&animation=fadeIn&fontAlignY=55&fontWeight=800" alt="REAZONVAN ANIMATED HEADER" width="100%" style="margin-top: 20px; margin-bottom: -10px;" />
+
+<p style="font-size: 1.1em; color: #8b949e; letter-spacing: 3px; margin-top: 0px;">
   <b>SYSTEM ARCHITECT | SOFTWARE ENGINEER</b>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
