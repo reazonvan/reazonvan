@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,10,30&height=180&section=header&text=REAZONVAN&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
-
-<p style="font-size: 1.1em; color: #8b949e; letter-spacing: 3px; margin-top: -25px;">
-  <b>SYSTEM ARCHITECT | SOFTWARE ENGINEER</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=160&section=header&text=REAZONVAN&fontSize=80&fontColor=gradient&gradient=4DFFCF,6A65FC,FF58B3&animation=fadeIn&fontAlignY=45&desc=SYSTEM%20ARCHITECT%20%7C%20SOFTWARE%20ENGINEER&descFontSize=22&descColor=8b949e&descAlignY=75" alt="REAZONVAN - SYSTEM ARCHITECT" width="100%" style="margin-bottom: -20px;" />
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="1px" />
 
 <br />
